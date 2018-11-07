@@ -39,5 +39,5 @@ testem.log
 Thumbs.db
 
 /docs
-/web-dist
-/desktop-dist
+/dist-web
+/dist-desktop

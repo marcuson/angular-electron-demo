@@ -9,8 +9,8 @@
   "build": {
     "appId": "com.marcuson.angularelectrondemo",
     "directories": {
-      "buildResources": "web-dist",
-      "output": "desktop-dist",
+      "buildResources": "dist-web",
+      "output": "dist-desktop",
       "app": "."
     }
   },

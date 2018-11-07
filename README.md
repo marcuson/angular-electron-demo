@@ -52,4 +52,4 @@ NOTE: Tested only on Windows (I don't have a Mac sorry :stuck_out_tongue:).
   1. run `npm run desktop:build:dev` or `npm run mobile:build:prod` according to the environment
      you want to build for.
   2. run `npm run desktop:dist`, an unpacked version + installer will be created under
-     `desktop-dist` folder for the OS you are currently running.
+     `dist-desktop` folder for the OS you are currently running.

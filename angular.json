@@ -24,7 +24,7 @@
             "namedChunks": true,
             "optimization": false,
             "outputHashing": "none",
-            "outputPath": "web-dist",
+            "outputPath": "dist-web",
             "polyfills": "src/polyfills.ts",
             "scripts": [],
             "showCircularDependencies": false,
